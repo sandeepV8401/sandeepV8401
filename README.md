@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi 👋 I'm Sandeep
+
+Building real-world SaaS applications with MERN + AI + Real-time systems.
 
 <!--
 **sandeepV8401/sandeepV8401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
